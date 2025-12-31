@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+  <title>grepjason - weblog</title>
+  <link>https://grepjason.sh</link>
+  <description>Hey, it's Jason!</description>
+  <language>en-us</language>
+  <lastBuildDate>Wed, 31 Dec 2025 14:44:27 GMT</lastBuildDate>
+  
+  <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>A new RSS feed!</title>
+    <description>The Obsidian Publish RSS feed is not great. So I am making my own! This should be a test entry. Real feed to follow!</description>
+    <link>https://grepjason.sh</link>
+    <guid isPermaLink="true">https://grepjason.sh</guid>
+    <pubDate>Wed, 31 Dec 2025 14:44:27 GMT</pubDate>
+  </item>
+
+</channel>
+</rss>
