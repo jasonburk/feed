@@ -19,11 +19,27 @@
   <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
 
   <item>
+    <title>Replacing Obsidian Publish RSS Feed</title>
+    <description>It's time to get a proper RSS feed working for Obsidian Publish. Let's dive into how I am doing it!</description>
+    <link>https://grepjason.sh/2025/replacing-obsidian-publish-rss-feed</link>
+    <guid isPermaLink="true">https://grepjason.sh/2025/replacing-obsidian-publish-rss-feed</guid>
+    <pubDate>Wed, 31 Dec 2025 15:44:27 GMT</pubDate>
+  </item>
+  
+  <item>
+    <title>Games I Finished in 2025</title>
+    <description>Another year has passed, let's see what games I managed to finish this year!</description>
+    <link>https://grepjason.sh/2025/games-i-finished-in-2025</link>
+    <guid isPermaLink="true">https://grepjason.sh/2025/games-i-finished-in-2025</guid>
+    <pubDate>Tue, 30 Dec 2025 15:44:27 GMT</pubDate>
+  </item>
+  
+  <item>
     <title>Hunny, I Shrunk My Laptop</title>
     <description>Switching from a 16" MacBoko Pro to a 13" MacBook Air!</description>
     <link>https://grepjason.sh/2025/hunny-i-shrunk-my-laptop</link>
     <guid isPermaLink="true">https://grepjason.sh/2025/hunny-i-shrunk-my-laptop</guid>
-    <pubDate>Wed, 31 Dec 2025 15:44:27 GMT</pubDate>
+    <pubDate>Sat, 20 Dec 2025 15:44:27 GMT</pubDate>
   </item>
   
   <item>
@@ -31,7 +47,7 @@
     <description>The Obsidian Publish RSS feed is not great. So I am making my own! This should be a test entry. Real feed to follow!</description>
     <link>https://grepjason.sh</link>
     <guid isPermaLink="true">https://grepjason.sh</guid>
-    <pubDate>Wed, 31 Dec 2025 14:44:27 GMT</pubDate>
+    <pubDate>Sat, 20 Dec 2025 14:43:27 GMT</pubDate>
   </item>
 
 </channel>
