@@ -8,6 +8,14 @@
   <language>en-us</language>
   <lastBuildDate>Wed, 31 Dec 2025 15:44:27 GMT</lastBuildDate>
   
+  <image>
+    <url>https://feed.grepjason.sh/favicon-192.png</url>
+    <title>grepjason - weblog</title>
+    <link>https://grepjason.sh</link>
+    <width>128</width>
+    <height>128</height>
+  </image>
+  
   <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
 
   <item>
