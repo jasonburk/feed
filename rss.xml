@@ -6,10 +6,18 @@
   <link>https://grepjason.sh</link>
   <description>Hey, it's Jason!</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 31 Dec 2025 14:44:27 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 31 Dec 2025 15:44:27 GMT</lastBuildDate>
   
   <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
 
+  <item>
+    <title>Hunny, I Shrunk My Laptop</title>
+    <description>Switching from a 16" MacBoko Pro to a 13" MacBook Air!</description>
+    <link>https://grepjason.sh/2025/hunny-i-shrunk-my-laptop</link>
+    <guid isPermaLink="true">https://grepjason.sh/2025/hunny-i-shrunk-my-laptop</guid>
+    <pubDate>Wed, 31 Dec 2025 15:44:27 GMT</pubDate>
+  </item>
+  
   <item>
     <title>A new RSS feed!</title>
     <description>The Obsidian Publish RSS feed is not great. So I am making my own! This should be a test entry. Real feed to follow!</description>
