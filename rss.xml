@@ -6,7 +6,7 @@
   <link>https://grepjason.sh</link>
   <description>Hey, it's Jason!</description>
   <language>en-us</language>
-  <lastBuildDate>fri, 02 apr 2026</lastBuildDate>
+  <lastBuildDate>thu, 23 apr 2026</lastBuildDate>
   
   <image>
     <url>https://feed.grepjason.sh/favicon-192.png</url>
@@ -18,6 +18,14 @@
   
   <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
 
+  <item>
+    <title>Puzzmo Webhook to Flarum Forum With n8n</title>
+    <description>Documenting how I am using an n8n workflow to push the Puzzmo daily update webook over to our Flarum forum.</description>
+    <link>https://grepjason.sh/2026/puzzmo-webhook-to-flarum-forum-with-n8n</link>
+    <guid isPermaLink="true">https://grepjason.sh/2026/puzzmo-webhook-to-flarum-forum-with-n8n</guid>
+    <pubDate>thu, 23 apr 2026</pubDate>
+  </item>
+  
   <item>
     <title>For The Seiko of It</title>
     <description>I wasn't going to pick up any new watches on this trip. Then I picked up a new watch. 🤷</description>
