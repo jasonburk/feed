@@ -6,7 +6,7 @@
   <link>https://grepjason.sh</link>
   <description>Hey, it's Jason!</description>
   <language>en-us</language>
-  <lastBuildDate>fri, 29 may 2026</lastBuildDate>
+  <lastBuildDate>tue, 07 jul 2026</lastBuildDate>
   
   <image>
     <url>https://feed.grepjason.sh/favicon-192.png</url>
@@ -18,6 +18,14 @@
   
   <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
 
+  <item>
+    <title>June-boree!</title>
+    <description>It's that time of year! Behold! June-boree!</description>
+    <link>https://grepjason.sh/2026/june-boree-trophees</link>
+    <guid isPermaLink="true">https://grepjason.sh/2026/june-boree-trophees</guid>
+    <pubDate>tue, 07 jul 2026</pubDate>
+  </item>
+  
   <item>
     <title>One Million Pounds</title>
     <description>My journey to moving 1,000,000 pounds for the sake of health!</description>
