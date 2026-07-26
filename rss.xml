@@ -6,7 +6,7 @@
   <link>https://grepjason.sh</link>
   <description>Hey, it's Jason!</description>
   <language>en-us</language>
-  <lastBuildDate>tue, 07 jul 2026</lastBuildDate>
+  <lastBuildDate>sat, 25 jul 2026</lastBuildDate>
   
   <image>
     <url>https://feed.grepjason.sh/favicon-192.png</url>
@@ -17,6 +17,13 @@
   </image>
   
   <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>An Apparent Air of Grievances</title>
+    <description>Let's chat about the iPhone Air.</description>
+    <link>https://grepjason.sh/2026/an-apparent-air-of-grievances</link>
+    <guid isPermaLink="true">https://grepjason.sh/2026/an-apparent-air-of-grievances</guid>
+    <pubDate>sat, 25 jul 2026</pubDate>
+  </item>
 
   <item>
     <title>June-boree!</title>
