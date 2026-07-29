@@ -6,7 +6,7 @@
   <link>https://grepjason.sh</link>
   <description>Hey, it's Jason!</description>
   <language>en-us</language>
-  <lastBuildDate>sat, 25 jul 2026</lastBuildDate>
+  <lastBuildDate>tue, 28 jul 2026</lastBuildDate>
   
   <image>
     <url>https://feed.grepjason.sh/favicon-192.png</url>
@@ -16,6 +16,15 @@
     <height>128</height>
   </image>
   
+  <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Teardown 2026</title>
+    <description>A quick recap of my attendance of the Teardown 2026 conference!</description>
+    <link>https://grepjason.sh/2026/teardown-2026</link>
+    <guid isPermaLink="true">https://grepjason.sh/2026/teardown-2026</guid>
+    <pubDate>tue, 28 jul 2026</pubDate>
+  </item>  
+
   <atom:link href="https://feed.grepjason.sh/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>An Apparent Air of Grievances</title>
